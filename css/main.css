@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: red;
+}
+p{
+    display: inline;
+    color: rgb(243, 170, 12);
+}
+h2{
+    text-align: center;
+    border: 2px dashed blue;
+    background-color: bisque;
+    padding: 5px;
+}
+ul{
+    list-style-type: none;
+    
+}
+li{
+    font-size: 20px;
+    color: red;
+    font-weight: 700;
+    background-color: rgb(255, 215, 163);
+    width: 300px;
+    padding: 5px;
+    text-decoration: underline;
+}
